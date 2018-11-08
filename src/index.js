@@ -12,7 +12,7 @@ import './index.css';
          <div className="login">
           <h2>Login</h2>
           <select id="selection">
-             <option>Select Mode..</option>
+             <option selected>Select Mode..</option>
              <option>Patient</option>
              <option>Hospital Admin</option>
              <option>Lab Admin</option>
