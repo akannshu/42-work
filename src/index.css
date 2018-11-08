@@ -33,6 +33,8 @@ h2{
   font-size: 40px;
 }
 #selection{
+  font-family: calibri;
+  cursor: pointer;
   display: block;
   border-radius: 25px;
   margin-top: 20px;
